@@ -1,1 +1,13 @@
-
+[
+          {
+                  "name":"Tunnel Worker",
+                  "unitType":"Civilian",
+                  "movement": 2,
+                  "cost": 150,
+                  "requiredTech": "Agriculture",
+                  "uniques":[
+          		"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <after discovering [Dynamite]>",               
+          		"Can pass through impassable tiles <after discovering [Construction]>",
+                  ]
+              },
+]
