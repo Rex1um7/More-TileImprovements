@@ -1,0 +1,16 @@
+[
+        {
+		"name": "Mountain Tunnel",
+		"type": "TerrainFeature",
+	        "movementCost": 2,
+		"defenceBonus": 0.15,
+		"impassable": false,
+		"overrideStats": false,
+		"occursOn": ["Mountain"],
+		"uniques": [
+			"Rough terrain",
+            		"Has an elevation of [2] for visibility calculations",
+			"Units ending their turn on this terrain take [-50] damage",
+		],
+	},
+]
