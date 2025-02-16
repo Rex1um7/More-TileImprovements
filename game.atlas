@@ -1,1 +1,26 @@
-
+game.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Testing Worker 
+  rotate: false
+  xy: 2, 2
+  size: 410, 500
+  orig: 410, 500
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Testing Worker 
+  rotate: false
+  xy: 412, 409
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mountain Tunnel 
+  rotate: false
+  xy: 412, 439
+  size: 64, 63
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
