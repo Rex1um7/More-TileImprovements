@@ -6,7 +6,7 @@
                   "cost": 150,
                   "requiredTech": "Dynamite",
                   "uniques":[
-          		"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <after discovering [Dynamite]>",               
+          		"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <costs [+300 Gold] stats> <after discovering [Dynamite]>",               
           		"Can pass through impassable tiles",
                   ]
               },
