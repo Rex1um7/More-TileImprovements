@@ -2,7 +2,7 @@
           {
                   "name":"Tunnel Worker",
                   "unitType":"Civilian",
-                  "movement": 2,
+                  "movement": 3,
                   "cost": 150,
                   "requiredTech": "Dynamite",
                   "uniques":[
