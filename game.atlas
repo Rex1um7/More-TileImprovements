@@ -3,14 +3,14 @@ size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Testing Worker 
+UnitIcons/Tunnel Worker
   rotate: false
   xy: 2, 2
   size: 410, 500
   orig: 410, 500
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Testing Worker 
+TileSets/FantasyHex/Units/Tunnel Worker
   rotate: false
   xy: 412, 409
   size: 32, 28
